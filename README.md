@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshaVardhanNaiduGangavarapu
 - 👀 I’m interested in coding
-- 🌱 I’m currently doing Masters
+- 🌱 I’m currently doing Masters and looking for Co-op opportunities for Winter 2023
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me --> gharshavardhan19@gmail.com
 
