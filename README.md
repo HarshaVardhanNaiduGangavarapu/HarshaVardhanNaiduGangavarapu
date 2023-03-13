@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarshaVardhanNaiduGangavarapu
-- 👀 I’m interested in coding
+- 👀 I’m interested in solving challengs through code
 - 🌱 I’m currently doing Masters and looking for Full-time opportunities starting May 2023
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me --> gharshavardhan19@gmail.com
