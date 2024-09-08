@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshaVardhanNaiduGangavarapu
 - 👀 I’m interested in solving challenges through code
-- 🌱 I’m a Masters Graduate Student and looking for Full-time opportunities starting May 2023
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m a Masters Graduate Student and looking for Full-time opportunities
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me --> gharshavardhan19@gmail.com
 
 <!---
